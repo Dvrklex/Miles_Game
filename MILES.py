@@ -1,6 +1,6 @@
 import PySimpleGUI as sg
 import random
-from fuimba import *
+from functions import *
 from datetime import date
 sg.theme('DarkBrown2')
 def genNum():
